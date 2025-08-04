@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.orange {
+  @apply text-orange-400;
+}
+
+a {
+  @apply text-orange-400 underline underline-offset-2 hover:text-orange-200;
+}
