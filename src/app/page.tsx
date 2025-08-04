@@ -13,7 +13,7 @@ export default function Home() {
         &gt; x: <a href="https://x.com/bridgertower">@bridgertower</a>
       </p>
       <Spacer />
-      <p className="orange">"i like to make websites"</p>
+      <p className="orange">&quot;i like to make websites&quot;</p>
       <p>© {new Date().getFullYear()} </p>
     </main>
   );
