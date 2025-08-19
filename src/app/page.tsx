@@ -6,7 +6,7 @@ export default function Home() {
         &gt; website: <a href="https://bridger.to">bridger.to</a>
       </h2>
       <p>
-        &gt; founder: <a href="https://wip.ac">WIP</a>
+        &gt; founder: <a href="https://wip.ac">wip.ac</a>
       </p>
       <p>
         &gt; github: <a href="https://github.com/brijr">@brijr</a>
