@@ -9,6 +9,9 @@ export default function Home() {
         &gt; founder: <a href="https://wip.ac">wip.ac</a>
       </p>
       <p>
+        &gt; cofounder: <a href="https://9d8.dev">9d8.dev</a>
+      </p>
+      <p>
         &gt; github: <a href="https://github.com/brijr">@brijr</a>
       </p>
       <p>
